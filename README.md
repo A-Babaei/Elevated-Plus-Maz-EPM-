@@ -106,10 +106,8 @@ The pipeline computes standard EPM anxiety metrics:
 
 ### 🔹 Open Arm Time Percentage (OAT%)
 
-[
-\text{OAT%} = 100 \times \frac{\text{Time in Open Arms}}
-{\text{Time in Open Arms} + \text{Time in Closed Arms}}
-]
+<img width="675" height="88" alt="image" src="https://github.com/user-attachments/assets/e90bdb5c-72cd-45ca-9bfa-a6cfbf92e524" />
+
 
 * Center time excluded (standard practice)
 
@@ -117,10 +115,8 @@ The pipeline computes standard EPM anxiety metrics:
 
 ### 🔹 Open Arm Entry Percentage (OAE%)
 
-[
-\text{OAE%} = 100 \times \frac{\text{Open Arm Entries}}
-{\text{Open Arm Entries} + \text{Closed Arm Entries}}
-]
+<img width="646" height="81" alt="image" src="https://github.com/user-attachments/assets/729987e4-81b4-4a08-b86c-f3e29f07616c" />
+
 
 * Nose-based
 * Center → arm only
